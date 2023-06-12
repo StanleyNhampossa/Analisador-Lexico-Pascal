@@ -44,6 +44,6 @@ Após todas etapas concluídas com sucesso, poderá executar o ficheiro index.ht
 https://github.com/StanleyNhampossa/Analisador-Lexico-Pascal.git
 
 ## Membros do grupo 
-- Hermon Yuran Sulemangy Carlos da Cruz
-- Malagy Camur Cassimo Malagy Júnior
-- Stanley Carmelita Aníbal Nhampossa
+- [Hermon Yuran Sulemangy Carlos da Cruz](https://github.com/HermonYurandaCruz)
+- [Malagy Camur Cassimo Malagy Júnior](https://github.com/MalagyCassimo)
+- [Stanley Carmelita Aníbal Nhampossa](https://github.com/StanleyNhampossa)
